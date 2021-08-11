@@ -1,0 +1,3 @@
+rootProject.name = "AndroidExcelView"
+include ':demo'
+include ':AndroidExcelView'
